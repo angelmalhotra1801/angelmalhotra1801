@@ -1,4 +1,4 @@
-### Hi, I'm Angel Malhotra! 👋</br>
+#### Hi, I'm Angel Malhotra! 👋</br>
 
 🚀 Full-stack Web Developer | MERN Stack</br>
 ⚛ Currently building with React & Next.js — exploring Web3</br>
