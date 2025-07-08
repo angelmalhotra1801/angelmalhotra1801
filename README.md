@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Angel Malhotra
 🚀 Full-stack Web Developer | MERN Stack<br>
 ⚛ Currently building with React — exploring Web3<br>
-🎮 Lowkey obsessed with Three.js — if it spins, flies, or glows, I probably coded it<br>
+🎮 obsessed with Three.js — anything that spins, flies, or glows!<br>
 ☕ Driven by caffeine, curiosity, and pixels that never align<br>
 📬 Reach out: angelmalhotra1801@gmail.com<br>
 🐦 X: @angelmalhotra_
